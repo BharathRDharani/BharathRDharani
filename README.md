@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BharathRDharani
 - 👀 I’m interested in Code, Phython and Analytics
-- 🌱 I’m currently learning Power BI , Selenium
+- 🌱 I’m currently learning Power BI , VBA, MS Suite
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me bharathk144@gmail.com
 
